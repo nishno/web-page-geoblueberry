@@ -1,0 +1,12 @@
+{
+  "name": "geoblueberry",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js",
+    "build": "node build.js",
+    "check": "node --check app.js && node --check translations.js && node --check server.js && node --check build.js"
+  }
+}
