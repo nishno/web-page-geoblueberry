@@ -7,7 +7,8 @@ Run `npm run check` for JavaScript syntax checks and `npm run build` to create t
 
 ## Content and launch notes
 Orchard counts use the supplied total of nine. Regional pictures are illustrative AI-generated imagery, not verified photographs of GeoBlueBerry orchards. Harvest bars show a relative seasonal sequence, not confirmed dates.
-Specific varieties, certifications, acreage, volumes, pack formats and contact information require business confirmation before adding them.
+The business owner supplied the claims of more than 600 tonnes of supply capacity and six years of market experience. Capacity is not presented as annual output or a confirmed shipment volume. Seasonal continuity is not a year-round fresh-supply promise.
+Specific varieties, certifications, acreage, order volumes, pack formats and contact information require business confirmation before adding them.
 The inquiry form validates input and downloads a text file locally; it does not deliver messages. Configure a real contact or submission service before launch.
 AgriMap links open https://agrimap.pro. Its functionality is described using the supplied brief; no integration or data connection is established.
 Images and the SVG logo are stored locally. System fonts provide a dependency-free rendering.
